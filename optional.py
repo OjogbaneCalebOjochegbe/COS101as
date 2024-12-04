@@ -1,4 +1,4 @@
-number_list = [3,5,68,2,19,30,5,1,19,4]
+number_list = [4,8,5,3,29,31,6,2,41,26]
 
 index = 0
 while number_list[index:]:
@@ -9,3 +9,4 @@ while number_list[index:]:
 for number in range(number_index, -1, -1):
 
     print(number_list[number])
+     #for reversed without using reverse directly
